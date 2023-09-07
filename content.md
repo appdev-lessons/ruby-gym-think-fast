@@ -13,7 +13,7 @@ Suppose that your program has to deal with the object inside the variable `some_
 * `false`: print `"you may not pass"`
 * a `Hash`: print the list of keys within the `Hash`, as an `Array`.
 
-`if` statements are one of our most commonly used tools we use as developers for dealing with the unknown! [Pull up the lesson](https://learn.firstdraft.com/lessons/74) if you need a refresher.
+`if` statements are one of our most commonly used tools we use as developers for dealing with the unknown! [Pull up the lesson](https://learn.firstdraft.com/lessons/74-ruby-intro-conditionals) if you need a refresher.
 
 Next, remember that there's a method called `.class` that we can call on any Ruby object to find out what kind of thing it is. We first met it way back in the `Integer` lesson.
 
