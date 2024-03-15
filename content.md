@@ -209,3 +209,7 @@ describe "Think Fast" do
 end
 ```
 {: .repl-test #think_fast_test_8 for="think_fast" title="Think Fast prints '5 is odd' when the random number is '5'" points="1"}
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
