@@ -1,5 +1,10 @@
 # Ruby Gym: Think Fast
 
+<div class="alert alert-info">
+
+Getting stuck with only partial credit on the tests? Remind yourself of how to write _flexible_ code that will pass for all tests at the same time with [this video](https://share.descript.com/view/x6XDEJNYGlp).
+</div>
+
 Suppose that your program has to deal with the object inside the variable `some_random_input`. If the object is:
 
 * a `String`: downcase it and print it
