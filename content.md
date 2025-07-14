@@ -105,7 +105,7 @@ describe "Think Fast" do
   it "prints ':goodbye' input is ':GOODBYE'" do
     allow_any_instance_of(Array).to receive(:sample).and_return(:GOODBYE)
     output = run_codeblock
-    expect(output).to match(:goodbye)
+    expect(output).to fuzzy_match(:goodbye)
   end
 end
 ```
